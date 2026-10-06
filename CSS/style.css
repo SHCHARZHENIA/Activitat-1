@@ -1,0 +1,48 @@
+body {
+    display:block;
+    width:90%;
+    margin-inline: auto;
+
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(1, 1, 1);
+    line-height: 1.5;
+    
+}
+
+
+header{
+    border:1px dotted orangered;
+    padding:10px;
+}
+.barras_menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.barras_menu li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.barras_menu a {
+    color: rgb(242, 0, 113);
+    text-decoration: none;
+}
+
+/*fin de la barra*/
+
+
+main{
+    border:3px dotted rgb(255, 0, 0);
+}
+
+
+h1 {
+    color: rgb(123, 0, 255);
+}
+h2{color: rgb(0, 54, 102);
+
+}
+
+
+
